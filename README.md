@@ -1,14 +1,5 @@
 <div align="center">
-
-![Zhaobin Xu — AI, LLM and Agent Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0891B2&height=230&section=header&text=Zhaobin%20Xu&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Agent%20%7C%20LLM%20%7C%20Machine%20Learning%20Engineer&descSize=18&descAlignY=58)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+reliable+LLM+agents+and+RAG+systems;Researching+data+attribution+and+multimodal+AI;Open+to+AI%2FLLM%2FML+engineering+roles+and+research+internships)](https://git.io/typing-svg)
-
-[![Open to Work](https://img.shields.io/badge/OPEN_TO-AI%20%7C%20LLM%20%7C%20AGENT%20%7C%20MLE-06B6D4?style=for-the-badge)](mailto:sea.xuo@gmail.com)
-[![Email](https://img.shields.io/badge/Email-sea.xuo%40gmail.com-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sea.xuo@gmail.com)
-[![Paper](https://img.shields.io/badge/arXiv-2507.04059-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2507.04059)
-[![Profile views](https://komarev.com/ghpvc/?username=JaspinXu&style=for-the-badge&color=0891b2)](https://github.com/JaspinXu)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+reliable+LLM+agents+and+RAG+systems;Open+to+AI%2FLLM%2FML+engineering+roles+and+research+internships)](https://git.io/typing-svg)
 </div>
 
 ## Hello, I'm Zhaobin 👋
