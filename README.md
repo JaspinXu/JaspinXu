@@ -2,9 +2,7 @@
 
 I build **reliable AI agents, retrieval systems, and applied machine learning pipelines**. My work spans stateful LLM orchestration, RAG evaluation, responsible ML, computer vision, graph neural networks, and diffusion models.
 
-- 🎓 Incoming **Master of Computing in Artificial Intelligence** student at the **National University of Singapore**
-- 🔬 Research experience with **NC State GEARS** and **KAUST**
-- 🧠 Co-author of **[Attributing Data for Sharpness-Aware Minimization](https://arxiv.org/abs/2507.04059)** — influence-function methods for data valuation, mislabeled-data detection, model editing, and interpretability
+- 🎓 **Master of Computing in Artificial Intelligence** student at the **National University of Singapore**
 - 🛠️ I like turning research ideas into testable systems with clear state, guardrails, evaluation, and reproducible infrastructure
 - 🎯 Seeking **AI / LLM / Agent / MLE engineering roles** and **research internships**
 
