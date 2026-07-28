@@ -126,9 +126,9 @@ Created **SkinDualGen**, a prompt-driven Stable Diffusion and LoRA pipeline for 
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaspinXu/JaspinXu/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaspinXu/JaspinXu/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/JaspinXu/JaspinXu/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaspinXu/JaspinXu/gh-pages/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaspinXu/JaspinXu/gh-pages/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/JaspinXu/JaspinXu/gh-pages/github-snake.svg" />
 </picture>
 
 </div>
