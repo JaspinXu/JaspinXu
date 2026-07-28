@@ -1,7 +1,3 @@
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+reliable+LLM+agents+and+RAG+systems;Open+to+AI%2FLLM%2FML+engineering+roles+and+research+internships)](https://git.io/typing-svg)
-</div>
-
 ## Hello, I'm Zhaobin 👋
 
 I build **reliable AI agents, retrieval systems, and applied machine learning pipelines**. My work spans stateful LLM orchestration, RAG evaluation, responsible ML, computer vision, graph neural networks, and diffusion models.
